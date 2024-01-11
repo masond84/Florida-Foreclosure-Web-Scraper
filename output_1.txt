@@ -1,0 +1,106 @@
+Final Party Data:                                             Party_Type   
+0    Skip to Main ContentLogoutMy AccountSearch Men...  \
+1    Skip to Main ContentLogoutMy AccountSearch Men...   
+2    THE COURTYARDS I HOMEOWNERS ASSOCIATION INC\nV...   
+3    Case Type:REAL PROP - MORTGAGE FORECLOSURE - C...   
+4                                                        
+..                                                 ...   
+383                                                      
+384                                                      
+385                                                      
+386                                                      
+387                                                      
+
+                                                  Name   
+0    Skip to Main ContentLogoutMy AccountSearch Men...  \
+1                                                        
+2                                              §§§§§§§   
+3    REAL PROP - MORTGAGE FORECLOSURE - COUNTY  UP ...   
+4                                                        
+..                                                 ...   
+383                                                      
+384                                                      
+385                                                      
+386                                                      
+387                                                      
+
+                                               Address   
+0                                                       \
+1                       Location : Pinellas CountyHelp   
+2    Case Type:REAL PROP - MORTGAGE FORECLOSURE - C...   
+3                                           11/03/2023   
+4                                                        
+..                                                 ...   
+383                                                      
+384                                                      
+385                                                      
+386                            Receipt # EF-2023-48018   
+387                                                      
+
+                                         Attorney_Name  
+0                       Location : Pinellas CountyHelp  
+1                           Location : Pinellas County  
+2    Case Type:REAL PROP - MORTGAGE FORECLOSURE - C...  
+3                                           Section 42  
+4                                                       
+..                                                 ...  
+383                                               0.00  
+384                                                     
+385                                                     
+386                                        TRUIST BANK  
+387                                                     
+
+[388 rows x 4 columns]
+                                            Party_Type   
+0    Skip to Main ContentLogoutMy AccountSearch Men...  \
+1    Skip to Main ContentLogoutMy AccountSearch Men...   
+2    THE COURTYARDS I HOMEOWNERS ASSOCIATION INC\nV...   
+3    Case Type:REAL PROP - MORTGAGE FORECLOSURE - C...   
+4                                                        
+..                                                 ...   
+383                                                      
+384                                                      
+385                                                      
+386                                                      
+387                                                      
+
+                                                  Name   
+0    Skip to Main ContentLogoutMy AccountSearch Men...  \
+1                                                        
+2                                              §§§§§§§   
+3    REAL PROP - MORTGAGE FORECLOSURE - COUNTY  UP ...   
+4                                                        
+..                                                 ...   
+383                                                      
+384                                                      
+385                                                      
+386                                                      
+387                                                      
+
+                                               Address   
+0                                                       \
+1                       Location : Pinellas CountyHelp   
+2    Case Type:REAL PROP - MORTGAGE FORECLOSURE - C...   
+3                                           11/03/2023   
+4                                                        
+..                                                 ...   
+383                                                      
+384                                                      
+385                                                      
+386                            Receipt # EF-2023-48018   
+387                                                      
+
+                                         Attorney_Name  
+0                       Location : Pinellas CountyHelp  
+1                           Location : Pinellas County  
+2    Case Type:REAL PROP - MORTGAGE FORECLOSURE - C...  
+3                                           Section 42  
+4                                                       
+..                                                 ...  
+383                                               0.00  
+384                                                     
+385                                                     
+386                                        TRUIST BANK  
+387                                                     
+
+[388 rows x 4 columns]
